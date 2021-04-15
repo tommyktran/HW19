@@ -1,0 +1,14 @@
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\19a.exe
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\19a.deps.json
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\19a.runtimeconfig.json
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\19a.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\19a.dll
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\19a.pdb
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.AssemblyInfo.cs
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.dll
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.pdb
+C:\Users\tommy\source\repos\19a\19a\obj\Debug\netcoreapp3.1\19a.genruntimeconfig.cache
+C:\Users\tommy\source\repos\19a\19a\bin\Debug\netcoreapp3.1\countries.json

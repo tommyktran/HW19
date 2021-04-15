@@ -1,0 +1,12 @@
+{
+  "ContestName": "BOARD OF ASSESSMENT APPEALS",
+  "MaxChoices": 1,
+  "WriteIn": true,
+  "Candidates": [
+    {
+      "CandidateCode": "1",
+      "CandidateName": "ROCKY MARCIANO",
+      "CandidateParty": "R"
+    }
+  ]
+}

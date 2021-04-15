@@ -1,0 +1,44 @@
+{
+  "Contests": [
+    {
+      "ContestCode": "C01",
+      "CandidateCodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "ContestCode": "C02",
+      "CandidateCodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "ContestCode": "C03",
+      "CandidateCodes": [
+        "1"
+      ]
+    },
+    {
+      "ContestCode": "C04",
+      "CandidateCodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  ]
+}

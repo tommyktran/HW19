@@ -1,0 +1,37 @@
+{
+  "ContestName": "BOARD OF FINANCE",
+  "MaxChoices": 4,
+  "WriteIn": true,
+  "Candidates": [
+    {
+      "CandidateCode": "1",
+      "CandidateName": "BABE RUTH",
+      "CandidateParty": "R"
+    },
+    {
+      "CandidateCode": "2",
+      "CandidateName": "JIM THORPE",
+      "CandidateParty": "R"
+    },
+    {
+      "CandidateCode": "3",
+      "CandidateName": "PETE MARAVICH",
+      "CandidateParty": "R"
+    },
+    {
+      "CandidateCode": "4",
+      "CandidateName": "JACKIE ROBINSON",
+      "CandidateParty": "R"
+    },
+    {
+      "CandidateCode": "5",
+      "CandidateName": "CALVIN COOLIDGE",
+      "CandidateParty": "D"
+    },
+    {
+      "CandidateCode": "6",
+      "CandidateName": "JOHN F. KENNEDY",
+      "CandidateParty": "D"
+    }
+  ]
+}

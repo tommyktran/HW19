@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Namibia",
+    "topLevelDomain": [
+      ".na"
+    ],
+    "alpha2Code": "NA",
+    "alpha3Code": "NAM",
+    "callingCodes": [
+      "264"
+    ],
+    "capital": "Windhoek",
+    "altSpellings": [
+      "NA",
+      "Namibië",
+      "Republic of Namibia"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2324388,
+    "latlng": [
+      -22.0,
+      17.0
+    ],
+    "demonym": "Namibian",
+    "area": 825615.0,
+    "gini": 63.9,
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "nativeName": "Namibia",
+    "numericCode": "516",
+    "currencies": [
+      {
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "af",
+        "iso639_2": "afr",
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans"
+      }
+    ],
+    "translations": {
+      "de": "Namibia",
+      "es": "Namibia",
+      "fr": "Namibie",
+      "ja": "ナミビア",
+      "it": "Namibia",
+      "br": "Namíbia",
+      "pt": "Namíbia",
+      "nl": "Namibië",
+      "hr": "Namibija",
+      "fa": "نامیبیا"
+    },
+    "flag": "https://restcountries.eu/data/nam.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      }
+    ],
+    "cioc": "NAM"
+  },
+  {
+    "name": "Panama",
+    "topLevelDomain": [
+      ".pa"
+    ],
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN",
+    "callingCodes": [
+      "507"
+    ],
+    "capital": "Panama City",
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 3814672,
+    "latlng": [
+      9.0,
+      -80.0
+    ],
+    "demonym": "Panamanian",
+    "area": 75417.0,
+    "gini": 51.9,
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "nativeName": "Panamá",
+    "numericCode": "591",
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "translations": {
+      "de": "Panama",
+      "es": "Panamá",
+      "fr": "Panama",
+      "ja": "パナマ",
+      "it": "Panama",
+      "br": "Panamá",
+      "pt": "Panamá",
+      "nl": "Panama",
+      "hr": "Panama",
+      "fa": "پاناما"
+    },
+    "flag": "https://restcountries.eu/data/pan.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "CAIS",
+        "name": "Central American Integration System",
+        "otherAcronyms": [
+          "SICA"
+        ],
+        "otherNames": [
+          "Sistema de la Integración Centroamericana,"
+        ]
+      }
+    ],
+    "cioc": "PAN"
+  },
+  {
+    "name": "Suriname",
+    "topLevelDomain": [
+      ".sr"
+    ],
+    "alpha2Code": "SR",
+    "alpha3Code": "SUR",
+    "callingCodes": [
+      "597"
+    ],
+    "capital": "Paramaribo",
+    "altSpellings": [
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 541638,
+    "latlng": [
+      4.0,
+      -56.0
+    ],
+    "demonym": "Surinamer",
+    "area": 163820.0,
+    "gini": 52.9,
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "borders": [
+      "BRA",
+      "GUF",
+      "FRA",
+      "GUY"
+    ],
+    "nativeName": "Suriname",
+    "numericCode": "740",
+    "currencies": [
+      {
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      }
+    ],
+    "translations": {
+      "de": "Suriname",
+      "es": "Surinam",
+      "fr": "Surinam",
+      "ja": "スリナム",
+      "it": "Suriname",
+      "br": "Suriname",
+      "pt": "Suriname",
+      "nl": "Suriname",
+      "hr": "Surinam",
+      "fa": "سورینام"
+    },
+    "flag": "https://restcountries.eu/data/sur.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "CARICOM",
+        "name": "Caribbean Community",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "Comunidad del Caribe",
+          "Communauté Caribéenne",
+          "Caribische Gemeenschap"
+        ]
+      },
+      {
+        "acronym": "USAN",
+        "name": "Union of South American Nations",
+        "otherAcronyms": [
+          "UNASUR",
+          "UNASUL",
+          "UZAN"
+        ],
+        "otherNames": [
+          "Unión de Naciones Suramericanas",
+          "União de Nações Sul-Americanas",
+          "Unie van Zuid-Amerikaanse Naties",
+          "South American Union"
+        ]
+      }
+    ],
+    "cioc": "SUR"
+  },
+  {
+    "name": "Viet Nam",
+    "topLevelDomain": [
+      ".vn"
+    ],
+    "alpha2Code": "VN",
+    "alpha3Code": "VNM",
+    "callingCodes": [
+      "84"
+    ],
+    "capital": "Hanoi",
+    "altSpellings": [
+      "VN",
+      "Socialist Republic of Vietnam",
+      "Cộng hòa Xã hội chủ nghĩa Việt Nam"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 92700000,
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "demonym": "Vietnamese",
+    "area": 331212.0,
+    "gini": 35.6,
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "nativeName": "Việt Nam",
+    "numericCode": "704",
+    "currencies": [
+      {
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "vi",
+        "iso639_2": "vie",
+        "name": "Vietnamese",
+        "nativeName": "Tiếng Việt"
+      }
+    ],
+    "translations": {
+      "de": "Vietnam",
+      "es": "Vietnam",
+      "fr": "Viêt Nam",
+      "ja": "ベトナム",
+      "it": "Vietnam",
+      "br": "Vietnã",
+      "pt": "Vietname",
+      "nl": "Vietnam",
+      "hr": "Vijetnam",
+      "fa": "ویتنام"
+    },
+    "flag": "https://restcountries.eu/data/vnm.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "ASEAN",
+        "name": "Association of Southeast Asian Nations",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
+      }
+    ],
+    "cioc": "VIE"
+  }
+]

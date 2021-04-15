@@ -1,0 +1,42 @@
+{
+  "ContestName": "BOARD OF EDUCATION",
+  "MaxChoices": 3,
+  "WriteIn": true,
+  "Candidates": [
+    {
+      "CandidateCode": "1",
+      "CandidateName": "BOBBY JONES",
+      "CandidateParty": "R"
+    },
+    {
+      "CandidateCode": "2",
+      "CandidateName": "WILMA RUDOLPH",
+      "CandidateParty": "R"
+    },
+    {
+      "CandidateCode": "3",
+      "CandidateName": "JIMMY WALKER",
+      "CandidateParty": "D"
+    },
+    {
+      "CandidateCode": "4",
+      "CandidateName": "RICHARD DALEY",
+      "CandidateParty": "D"
+    },
+    {
+      "CandidateCode": "5",
+      "CandidateName": "RAY CHARLES",
+      "CandidateParty": "PC"
+    },
+    {
+      "CandidateCode": "6",
+      "CandidateName": "WALT DISNEY",
+      "CandidateParty": "PC"
+    },
+    {
+      "CandidateCode": "7",
+      "CandidateName": "ABRAHAM LINCOLN",
+      "CandidateParty": "PC"
+    }
+  ]
+}
